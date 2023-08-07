@@ -17,7 +17,6 @@ A seguir, são apresentados os principais documentos utilizados pela organizaç�
 2. Abra o projeto em sua IDE preferida, como Eclipse ou IntelliJ IDEA.
 3. Certifique-se de que o Java 8 ou superior esteja instalado em sua máquina.
 4. Execute a aplicação na sua IDE.
-5. Você pode usar a aplicação para gerenciar informações de alunos e cursos, como adicionar, remover e atualizar informações.
 
 ## Funcionamento da Organização
 
