@@ -1,5 +1,4 @@
-![Gif de Java](https://user-images.githubusercontent.com/83369803/222292697-ba572246-7d77-4c02-839e-acc6f2270a1f.png)
-
+<!-- ![Gif de Java](https://user-images.githubusercontent.com/83369803/222292697-ba572246-7d77-4c02-839e-acc6f2270a1f.png) -->
 
 # Documentação da Organização
 
